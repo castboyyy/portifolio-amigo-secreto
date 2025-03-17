@@ -29,10 +29,6 @@ Este projeto é um aplicativo simples para gerenciar e sortear um Amigo Secreto 
 Você pode acessar a versão online do projeto através deste link:
 🔗 [Amigo Secreto - Vercel](https://portifolio-amigo-secreto.vercel.app/)
 
-## 📷 Captura de Tela
-
-(Adicione aqui uma imagem do projeto funcionando, caso deseje)
-
 ## 📌 Regras do Sorteio
 
 - É necessário pelo menos 2 participantes para realizar o sorteio.
